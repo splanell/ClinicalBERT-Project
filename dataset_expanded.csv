@@ -1,0 +1,101 @@
+note,text,label
+1,Patient found on floor next to bed. Alert but confused.,1
+2,No issues reported overnight. Ambulated without assistance.,0
+3,Reports dizziness when standing. Needs assistance to ambulate.,1
+4,Vitals within normal limits. Oriented x3. No fall risk.,0
+5,Unsteady gait noted during rounds. Assistance recommended.,1
+6,Patient independently ambulates without difficulty.,0
+7,Frequent trips to the restroom without support. Reports weakness.,1
+8,No signs of distress. Mobility normal. No complaints of dizziness.,0
+9,Fall reported in hallway yesterday. Minor bruising on left leg.,1
+10,Patient denies dizziness. Stood independently. Stable vitals.,0
+11,Transferred to wheelchair by two staff. Unsteady while sitting up.,1
+12,Patient alert and cooperative. Walking independently.,0
+13,Assisted to commode. Complained of lightheadedness.,1
+14,No abnormal findings. Ambulates with walker as usual.,0
+15,Patient slipped in bathroom but was caught by aide.,1
+16,"No dizziness, no falls. Standing balance intact.",0
+17,Patient required support when turning in bed. Muscle weakness noted.,1
+18,Walking observed. Normal gait and balance.,0
+19,History of recent fall. Bed alarm in use.,1
+20,No complaints today. Ate breakfast in chair. Moving well.,0
+21,"Vitals stable, gait steady",0
+22,Attempted to stand unassisted,1
+23,No assistance required for mobility,0
+24,Unsteady gait noted,1
+25,Complains of dizziness when standing,1
+26,Alert but forgetful of limitations,1
+27,High fall risk due to medications,1
+28,Unsteady gait noted,1
+29,"Vitals stable, gait steady",0
+30,Attempted to stand unassisted,1
+31,Reported lightheadedness during transfer,1
+32,No reported lightheadedness or vertigo,0
+33,Independent with toileting,0
+34,No dizziness or imbalance reported,0
+35,Required two staff to ambulate,1
+36,Uses walker effectively,0
+37,Unsteady gait noted,1
+38,Complains of dizziness when standing,1
+39,"Oriented x3, no fall risk indicators",0
+40,No history of recent falls,0
+41,Bed alarm triggered overnight,1
+42,No reported lightheadedness or vertigo,0
+43,Assisted to commode due to instability,1
+44,Reported lightheadedness during transfer,1
+45,Unsteady gait noted,1
+46,Patient transferred self to chair,0
+47,Required two staff to ambulate,1
+48,High fall risk due to medications,1
+49,Bed alarm triggered overnight,1
+50,Observed leaning while standing,1
+51,Independent with toileting,0
+52,Noted to grab walls when ambulating,1
+53,Unsteady gait noted,1
+54,Normal gait and posture observed,0
+55,Alert but forgetful of limitations,1
+56,No reported lightheadedness or vertigo,0
+57,No assistance required for mobility,0
+58,Alert but forgetful of limitations,1
+59,"Alert, cooperative, stable gait",0
+60,Patient transferred self to chair,0
+61,Bed alarm triggered overnight,1
+62,No dizziness or imbalance reported,0
+63,Independent with toileting,0
+64,Reported lightheadedness during transfer,1
+65,Bed alarm not activated during shift,0
+66,No history of recent falls,0
+67,Noted to grab walls when ambulating,1
+68,Slipped while walking to bathroom,1
+69,Exhibited imbalance during PT session,1
+70,"Alert, cooperative, stable gait",0
+71,Participated in therapy without issue,0
+72,Normal gait and posture observed,0
+73,Mobility status unchanged,0
+74,Completed ambulation exercises safely,0
+75,"Alert, cooperative, stable gait",0
+76,Stood without support,0
+77,High fall risk due to medications,1
+78,History of falls documented,1
+79,Completed ambulation exercises safely,0
+80,Bed alarm not activated during shift,0
+81,Independent with toileting,0
+82,Noted to grab walls when ambulating,1
+83,Patient found on floor,1
+84,Wears non-skid socks due to fall risk,1
+85,Exhibited imbalance during PT session,1
+86,Patient found on floor,1
+87,Assisted to commode due to instability,1
+88,"Vitals stable, gait steady",0
+89,Required two staff to ambulate,1
+90,High fall risk due to medications,1
+91,Mobility status unchanged,0
+92,Exhibited imbalance during PT session,1
+93,Bed alarm not activated during shift,0
+94,Needs assistance with ambulation,1
+95,Slipped while walking to bathroom,1
+96,Bed alarm triggered overnight,1
+97,Frequent toileting episodes with fatigue,1
+98,Denies weakness or fatigue,0
+99,Observed leaning while standing,1
+100,Reported lightheadedness during transfer,1
